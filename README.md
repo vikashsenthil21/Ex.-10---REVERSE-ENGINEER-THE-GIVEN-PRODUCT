@@ -37,8 +37,8 @@
 ![ex- 11](https://github.com/JEGADEESH07/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113497131/a6e0a8da-22c5-461f-96e9-bec93118a976)
 
 
-### Name:
-### Register Number:
+### Name: VIKASH S
+### Register Number: 212222240115
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
